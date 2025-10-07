@@ -5,3 +5,5 @@ def add_number():
 # Использование
 result = add_number()
 print(result)  # Выведет: 8
+print(result)  # Выведет: 8
+print(result)  # Выведет: 8
